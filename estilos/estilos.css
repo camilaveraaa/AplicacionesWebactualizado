@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #fad2ff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9469ac;
+}
+
+.contenedor {
+    width: 90%;
+    margin: auto;
+}
+
+
+
+header {
+    text-align: center;
+    padding: 40px 0;
+}
+
+header h1 {
+    font-family: "Alfa Slab One", cursive;
+    font-size: 48px;
+    font-weight: normal;
+}
+
+
+
+
+.principal {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.imagen {
+    width: 48%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 2%;
+}
+
+.imagen img {
+    width: 100%;
+    display: block;
+}
+
+.texto {
+    width: 48%;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.texto p {
+    margin-bottom: 15px;
+}
+
+
+
+
+.ultraviolence{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+
+.ultraviolence article {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 1%;
+    text-align: center;
+}
+
+
+.icono {
+    margin-bottom: 20px;
+    color: #5f238e;
+}
+
+
+.ultraviolence article p {
+    line-height: 1.8;
+    text-align: center;
+}
+
+.espacios{
+    width: 90%;
+    margin: 70px auto 50px;
+    text-align: center;
+}
+
+
+
+.parrafos{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 1%;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+.parrafos p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1rem;
+    text-align: justify;
+}
